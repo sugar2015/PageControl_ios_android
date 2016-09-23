@@ -1,4 +1,5 @@
 # PageControl_ios_android
 
-# GIF Show
-![](git/pagecontrol_1.gif)
+## GIF Show
+![](gif\pageControl_1.gif)
+
